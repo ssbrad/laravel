@@ -1,0 +1,54 @@
+{
+  "name": "Laravel", 
+  "description": "Laravel bootstrap", 
+  "version": "0.0.0", 
+  "engines": {
+    "node": ">=0.8", 
+    "npm":  "1.2.x"
+  }, 
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssbrad/laravel.git"
+  }
+}
+
+{
+  "version": "1.3.4",
+  "name": "laravel",
+  "publishConfig": {
+    "proprietary-attribs": false
+  },
+
+  "description": "test",
+  "keywords": [
+    "stuff",
+    "things",
+    "blah"
+  ],
+
+  "preferGlobal": true,
+    "config": {
+    "publishtest": false
+  },
+
+  "homepage": "http://sideswizzle.com",
+  "author": "Brad Gorman",
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssbrad/laravel"
+  },
+
+  "bugs": {
+    "email": "bugs@sideswizzle.com",
+    "url": "http://github.com/ssbrad/laravel/issues"
+  },
+
+  "directories": {
+    "app":        "./app",
+    "bootstrap":  "./bootstrap",
+    "public":     "./public"
+  }
+  
+}
